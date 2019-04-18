@@ -7,6 +7,11 @@
   "author": "Rafael Laurindo <rafaelfilholm@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json"
+  },
   "dependencies": {
     "typescript": "^3.4.3"
   },
