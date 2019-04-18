@@ -6,5 +6,8 @@
   "repository": "https://github.com/rafaellaurindo/blockchain-cryptocurrency-typescript.git",
   "author": "Rafael Laurindo <rafaelfilholm@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "typescript": "^3.4.3"
+  }
 }
