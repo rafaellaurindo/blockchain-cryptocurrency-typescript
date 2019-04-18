@@ -1,0 +1,10 @@
+{
+  "name": "blockchain-cryptocurrency-typescript",
+  "version": "0.0.1",
+  "description": "Blockchain for cryptocurrency created with Typescript.",
+  "main": "index.js",
+  "repository": "https://github.com/rafaellaurindo/blockchain-cryptocurrency-typescript.git",
+  "author": "Rafael Laurindo <rafaelfilholm@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
