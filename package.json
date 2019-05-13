@@ -13,9 +13,11 @@
     "lint": "tslint -p tsconfig.json"
   },
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "typescript": "^3.4.3"
   },
   "devDependencies": {
+    "@types/crypto-js": "^3.1.43",
     "prettier": "^1.17.0",
     "tslint": "^5.16.0",
     "tslint-config-prettier": "^1.18.0"
